@@ -1,0 +1,19 @@
+"scenario","n","metric","better","tie","worse"
+"Dense",60,"F1~~(SBHS-SLS)",72,10,18
+"Sparse",60,"F1~~(SBHS-SLS)",74,13,13
+"Mixed signs",60,"F1~~(SBHS-SLS)",74,10,16
+"Dense",120,"F1~~(SBHS-SLS)",91,6,3
+"Sparse",120,"F1~~(SBHS-SLS)",83,5,12
+"Mixed signs",120,"F1~~(SBHS-SLS)",92,0,8
+"Dense",180,"F1~~(SBHS-SLS)",95,3,2
+"Sparse",180,"F1~~(SBHS-SLS)",87,6,7
+"Mixed signs",180,"F1~~(SBHS-SLS)",94,5,1
+"Dense",60,"FP[G2]~~(SBHS-SLS)",77,18,5
+"Sparse",60,"FP[G2]~~(SBHS-SLS)",74,20,6
+"Mixed signs",60,"FP[G2]~~(SBHS-SLS)",79,15,6
+"Dense",120,"FP[G2]~~(SBHS-SLS)",85,13,2
+"Sparse",120,"FP[G2]~~(SBHS-SLS)",79,16,5
+"Mixed signs",120,"FP[G2]~~(SBHS-SLS)",92,6,2
+"Dense",180,"FP[G2]~~(SBHS-SLS)",92,8,0
+"Sparse",180,"FP[G2]~~(SBHS-SLS)",83,14,3
+"Mixed signs",180,"FP[G2]~~(SBHS-SLS)",93,6,1
