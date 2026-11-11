@@ -115,7 +115,7 @@ lambda2_upper_bound <- function(X, H, n_eig = NULL) {
 # ------------------------------------------------------------------------------
 # Is the SBHS objective bounded below for this lambda2?  (Proposition 5.1)
 #
-# The objective is bounded below exactly when G(lambda2) = X'X/n + lambda2 H is
+# The objective is bounded below exactly when Q(lambda2) = X'X/n + lambda2 H is
 # positive semidefinite (up to the boundary case). X is scaled column-wise in
 # the same way as in sbhs_cd(), because that is the scale on which the penalty
 # acts. lambda2 = 0 is always admissible.
